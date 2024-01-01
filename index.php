@@ -8,22 +8,40 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
-      <div class="row">
-        <div class="col-lg-8">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
           <h1>Book Us For Your Dream Event <span>Dream Event</span></h1>
-          <h2>Delivering great service for more than 10 years!</h2>
+         
+          <p>Find out professional caterers in your city for your Dream Events, long established fact a reader will be distracted the readable.</p>
 
           <div class="btns">
-            <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
-            <!-- <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Book a Table</a> -->
+            <a href="/" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
+            <a href="/" class="btn-book animated fadeInUp scrollto">Book us</a>
           </div>
         </div>
-        <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
-          <a href="https://www.youtube.com/watch?v=u6BOC7CDUTQ" class="glightbox play-btn"></a>
+        <div class="col-lg-6"  data-aos="zoom-in" data-aos-delay="200">
+            <img src="assets/img/hero.jpg" alt="">
+            <!-- <a href="https://www.youtube.com/watch?v=u6BOC7CDUTQ" class="glightbox play-btn"></a> -->
         </div>
+        <!-- <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
+        
+        </div> -->
 
       </div>
     </div>
+    
+       <a href="" class="banner-contact">
+                <i class="bi bi-phone" aria-hidden="true"></i>
+                <span>
+                    061-554400
+                </span>
+       </a>
+       <a href="#why-us">
+         <div class="mouse-icon">
+            <div class="wheel"></div>
+         </div>
+       </a>
+
   </section><!-- End Hero -->
 
   <main id="main">
@@ -524,8 +542,8 @@
      
      <!-- Contact section -->
      <section id="" class="contact">
-           <div class="container">
-                <div class="row">
+           <div class="container"  data-aos="fade-up">
+                <div class="row" data-aos="fade-up" data-aos-delay="100">
                      <div class="heading-wrapper">
                             <h4>
                                 Book us
@@ -534,7 +552,7 @@
                                 Where you want Our Services
                             </h2>
                      </div>
-                     <div class="col-lg-12">
+                     <div class="col-lg-12" data-aos="fade-up" data-aos-delay="200">
                         <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                           <div class="row">
                             <div class="col-md-6 form-group">

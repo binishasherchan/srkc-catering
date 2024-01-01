@@ -22,9 +22,9 @@
               Ranipauwa, 
              Pokhara Kaski
               </p>
-             <p>  <i class="bi bi-phone"></i> 061-544199</p>
+             <p>  <i class="bi bi-phone"></i> ff</p>
              
-             <p><i class="bi bi-envelope"></i> novainstitute.lp@gmail.com</p> 
+             <p><i class="bi bi-envelope"></i>dddd </p> 
             
           </div>
 
@@ -41,8 +41,8 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Our Services</h3>
             <ul>
-              <li><i class="bx bx-chevron-right"></i><a href="">Computer Courses</a>  </li>
-              <li><i class="bx bx-chevron-right"></i><a href="">Study in Japan</a>  </li>
+              <li><i class="bx bx-chevron-right"></i><a href="">Catering services</a>  </li>
+              <li><i class="bx bx-chevron-right"></i><a href="">Banquet hall</a>  </li>
               
             </ul>
           </div>

@@ -23,61 +23,55 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <section id="features" class="features">
-
-<!--  Section Title -->
-<div class="container section-title" data-aos="fade-up">
-  <h2>Features</h2>
- 
-</div><!-- End Section Title -->
-
-<div class="container">
-
-  <div class="row gy-4 align-items-center features-item">
-    <div class="col-lg-5 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-      <h3>About Nova</h3>
-      <p>
-        Nova is a highly professional and experienced computer education centre based in mountainnestled Pokhara. Comprising of faculty
-        considered the best in the industry. The courses at Nova are affordable with flexible payment schemes. Special discounts are also available for ex-students and
-        to those who upgrade to higher course.  <br>
-        
-        
-      </p>
-      <a href="#" class="btn btn-get-started">Get Started</a>
-    </div>
-    <div class="col-lg-7 order-1 order-lg-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
-      <div class="image-stack">
-        <img src="assets/img/training.jpg" alt="" class="stack-front">
-        <img src="assets/img/nova-1.jpg" alt="" class="stack-back">
-      </div>
-    </div>
-  </div><!-- Features Item -->
-
-  <div class="row gy-4 align-items-stretch justify-content-between features-item ">
-    <div class="col-lg-6 d-flex align-items-center features-img-bg" data-aos="zoom-out">
-      <img src="assets/img/team/md.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="col-lg-5 d-flex justify-content-center flex-column" data-aos="fade-up">
-      <h3>Message from Managing Director</h3>
-      <p>
-        Welcome to Nova Computer and Language Institute, Mahendrapul, Pokhara. 
-        The door of our institute is always open fo the students to welcome to a new session. 
-        Nova properly guides for your education because of the long experience and expertise of its 
-        founder in study and migration solution. Nova has proven itself as one of the best institutes in the town. 
-      </p>
-      <h4>Why choose us?</h4>
-      <ul>
-        <li><i class="ri-check-double-line"></i> <span>Renowned to  produce excellent students</span></li>
-        <li><i class="ri-check-double-line"></i><span> Flexible classes for students</span></li>
-        <li><i class="ri-check-double-line"></i> <span>well-experienced teachers</span>.</li>
-      </ul>
-      <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
-    </div>
-  </div><!-- Features Item -->
-
-</div>
-
-</section><!-- End Features Section -->
+    <section class="about-wrapper">
+            <div class="container" data-aos="fade-up">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="about-img" data-aos="zoom-in" data-aos-delay="100">
+                            <img src="assets/img/about.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="about-info">
+                            <div class="heading-wrapper">
+                                <h4>
+                                    Our Story
+                                </h4>
+                                <h2>
+                                    Trusted By 200 + satisfied clients
+                                </h2>
+                            </div>
+                            <p class="mb-3">
+                                Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore eit esdioilore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullaemco laboeeiris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor iesdein reprehendeerit
+                                in voluptate velit esse cillum dolore.
+                            </p>
+                            <ul class="story-list">
+                                <li>
+                                    <span>
+                                        <svg enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="m271.176 121.396c-150.205 7.822-271 132.495-271 284.604v106l37.925-88.29c44.854-89.692 133.847-147.041 233.075-152.314v121.318l240.648-196.714-240.648-196z"></path></g></svg>
+                                    </span> Fresh and Fast food Delivery
+                                </li>
+                                <li>
+                                    <span>
+                                        <svg enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="m271.176 121.396c-150.205 7.822-271 132.495-271 284.604v106l37.925-88.29c44.854-89.692 133.847-147.041 233.075-152.314v121.318l240.648-196.714-240.648-196z"></path></g></svg>
+                                    </span> 24/7 Customer Support
+                                </li>
+                                <li>
+                                    <span>
+                                        <svg enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="m271.176 121.396c-150.205 7.822-271 132.495-271 284.604v106l37.925-88.29c44.854-89.692 133.847-147.041 233.075-152.314v121.318l240.648-196.714-240.648-196z"></path></g></svg>
+                                    </span> Easy Customization Options
+                                </li>
+                                <li>
+                                    <span>
+                                        <svg enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="m271.176 121.396c-150.205 7.822-271 132.495-271 284.604v106l37.925-88.29c44.854-89.692 133.847-147.041 233.075-152.314v121.318l240.648-196.714-240.648-196z"></path></g></svg>
+                                    </span> Delicious Deals for Delicious Meals
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
 
      <!-- ======= Our Team Section ======= -->
      <section id="team" class="team section-bg">
